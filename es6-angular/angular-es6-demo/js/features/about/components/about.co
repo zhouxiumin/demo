@@ -1,0 +1,17 @@
+/**
+ *  Defines the About component
+ *
+ *  @author  zhouxiumin
+ *  @date    Sep 1, 2017
+ *
+ */
+import './about.css';
+export default {
+    template: `
+        <why></why>
+        <more></more>
+    `,
+    controller: class {
+        constructor() {}
+    }
+};
